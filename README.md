@@ -2,8 +2,11 @@
 **API Verification Script**
 
 This script verifies specific conditions from an API response using Katalon Studio and Groovy. It utilizes Katalon Studio's Web Service keywords to send a request to the API and validates the response against predefined conditions.
-Prerequisites
-•	Katalon Studio: Make sure you have Katalon Studio installed on your machine. You can download it from the Katalon website.
+
+
+**Prerequisites**
+
+•	Katalon Studio: Make sure you have Katalon Studio installed on your machine. You can download it from the [Katalon website](https://katalon.com/).
 
 
 **Getting Started**
