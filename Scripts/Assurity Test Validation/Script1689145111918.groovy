@@ -22,3 +22,4 @@ println "Acceptance Criteria 2: " + (canRelistAssertion ? "Passed" : "Failed")
 def promotions = new groovy.json.JsonSlurper().parseText(response.getResponseText()).Promotions
 def galleryPromotionAssertion = promotions.find { it.Name == "Gallery" && it.Description.contains("Good position in category") } != null
 println "Acceptance Criteria 3: " + (galleryPromotionAssertion ? "Passed" : "Failed")
+ 
