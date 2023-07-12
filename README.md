@@ -31,4 +31,5 @@ To execute the test case:
 **Troubleshooting**
 
 •	If you encounter any issues or errors while running the script, double-check the API endpoint URL, assertion conditions, and the Katalon Studio environment setup.
+
 •	Refer to the Katalon Studio documentation and forums for additional information and troubleshooting tips.
